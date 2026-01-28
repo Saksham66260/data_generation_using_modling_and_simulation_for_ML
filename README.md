@@ -1,7 +1,7 @@
 # Data Generation using Modelling and Simulation for Machine Learning
 
-**Author:** Saumya Kumari  
-**Roll No:** 102303161  
+**Author:** Saksham Singh 
+**Roll No:** 102303157
 
 ---
 
